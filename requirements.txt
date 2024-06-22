@@ -1,0 +1,10 @@
+pip
+PySide6
+PySide6_Addons
+PySide6_Essentials
+pyswisseph
+setuptools
+shiboken6
+svg.py
+timezonefinder
+pytz
